@@ -1,3 +1,6 @@
+@warn("This package is deprecated.  Use JuliaDynamics/RigorousInvariantMeasures.jl instead")
+
+
 module InvariantMeasures
 
 using IntervalArithmetic: range_atan
